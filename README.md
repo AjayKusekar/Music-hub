@@ -37,3 +37,8 @@ Running commands with npm `npm run [command]`
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
+
+
+# First login through your Gmail or Github account
+# You can add songs in the app ,play, Mark favourites
+# Also has stripe integration for VIP access
